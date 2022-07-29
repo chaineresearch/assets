@@ -1,0 +1,13 @@
+Id,Name,Shape Library,Page ID,Contained By,Group,Line Source,Line Destination,Source Arrow,Destination Arrow,Status,Text Area 1,Text Area 2,Text Area 3,Text Area 4,Text Area 5,Text Area 6,Text Area 7,Text Area 8,Text Area 9,Text Area 10,Text Area 11,Text Area 12,Text Area 13
+1,Document,,,,,,,,,DRAFT,Ocean Metadata Entities in Tableland,,,,,,,,,,,,
+2,Page,,,,,,,,,,Page 1,,,,,,,,,,,,
+3,Entity,Entity Relationship,2,,,,,,,,data_asset_id,asset_id,nft_address,ocean_version,chain_id,stats_orders,purgatory_state,,,,,,
+4,Entity,Entity Relationship,2,,,,,,,,metadata,asset_id,created_dttm,updated_dttm,asset_type,asset_name,desc,tags,author,license,links,addl_info,t_and_c
+5,Entity,Entity Relationship,2,,,,,,,,service,service_id,service_type,files,datatoken_address,service_endpoint,timeout,,,,,,
+6,Entity,Entity Relationship,2,,,,,,,,event,transaction,block,nft_owner,nft_address,event_dttm,,,,,,,
+7,Entity,Entity Relationship,2,,,,,,,,datatoken,datatoken_address,datatoken_name,datatoken_symbol,service_id,,,,,,,,
+8,Entity,Entity Relationship,2,,,,,,,,nft,nft_address,nft_name,nft_symbol,nft_state,nft_uri,nft_owner,nft_crtd_dttm,,,,,
+9,Line,,2,,,3,4,CFN ERD One Arrow,CFN ERD One Arrow,,,,,,,,,,,,,,
+10,Line,,2,,,3,8,CFN ERD One Arrow,CFN ERD One Arrow,,,,,,,,,,,,,,
+11,Line,,2,,,5,7,CFN ERD One Arrow,CFN ERD One Arrow,,,,,,,,,,,,,,
+12,Line,,2,,,8,6,CFN ERD One Arrow,CFN ERD One Arrow,,,,,,,,,,,,,,
