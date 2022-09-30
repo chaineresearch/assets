@@ -13,78 +13,129 @@
 </ul>
 </div>
 
-<div class="Tabs_tabContent__pEQWo"><div class="react-tabs__tab-panel react-tabs__tab-panel--selected" role="tabpanel" id="panel:r0:0" aria-labelledby="tab:r0:0"><div class="Markdown_markdown__3aZ4V Help_help__LESPn"><p>Set your prices for subscribing to this datastream. The datatoken for this dataset will be worth the entered amount of the selected base token.</p>
-</div>
+<div class="Tabs_tabContent__pEQWo"><div class="react-tabs__tab-panel react-tabs__tab-panel--selected" role="tabpanel" id="panel:r0:0" aria-labelledby="tab:r0:0" style="">
 
 <style>
-table, th, td {
-  border: 1px solid red;
+/* include in datastreams.css */
+
+table.pricing {
+  border: 1px solid #303030;
   border-collapse: collapse;
 }
-th, td {
-  padding: 100px;
-}
 th.pricing {
-  text-align: center;
+  text-align: left;
+  font-size: 15px;
+}
+p.helptext {
+  margin:0.1em 0 0.8em;
+  color:#8b98a9;
+  font-size:13px;
+}
+div.validate_pricing {
+  margin:1em 0;
+}
+span.fontsize14 {
+  font-size:14px
+}
+a.function {
+  color:#fff;
 }
 </style>
 
-<h4 class="Fixed_title__vjfbk">Pricing<svg width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" class="Title_infoIcon__moj1D Actions_infoIcon__zwDh8"><path fill-rule="evenodd" clip-rule="evenodd" d="M10 1.538a8.462 8.462 0 1 0 0 16.924 8.462 8.462 0 0 0 0-16.924ZM0 10C0 4.477 4.477 0 10 0s10 4.477 10 10-4.477 10-10 10S0 15.523 0 10Zm10-1.538a.77.77 0 0 1 .77.769v6.154a.77.77 0 0 1-1.54 0V9.23a.77.77 0 0 1 .77-.77Zm0-3.847a1.154 1.154 0 1 0 0 2.308 1.154 1.154 0 0 0 0-2.308Z"></path></svg>
-</h4>
-<div class="Price_price__HX81j"><div class="Price_grid__TFEgU">
+<div class="Markdown_markdown__3aZ4V Help_help__LESPn"><p>Set your time-based prices for subscribing to this Datastream.</p></div>
+
+<h4 class="Fixed_title__vjfbk">Pricing<svg width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" class="Title_infoIcon__moj1D Actions_infoIcon__zwDh8"><path fill-rule="evenodd" clip-rule="evenodd" d="M10 1.538a8.462 8.462 0 1 0 0 16.924 8.462 8.462 0 0 0 0-16.924ZM0 10C0 4.477 4.477 0 10 0s10 4.477 10 10-4.477 10-10 10S0 15.523 0 10Zm10-1.538a.77.77 0 0 1 .77.769v6.154a.77.77 0 0 1-1.54 0V9.23a.77.77 0 0 1 .77-.77Zm0-3.847a1.154 1.154 0 1 0 0 2.308 1.154 1.154 0 0 0 0-2.308Z"></path></svg></h4>
+<div class="Price_price__HX81j" style="margin-bottom:3rem">
+<div class="Price_grid__TFEgU" style="max-width:40rem">
+<div class="Price_form__aMXjr" style="">
+
+<h5 class="Fixed_title__vjfbk">Price Ratio</h5>
+<p class="helptext" style="">The amount of the selected base token determines the value of the datatoken.</p>
+
+<div class="Price_price__HX81j">
+<div class="Price_grid__TFEgU">
 <div class="Price_form__aMXjr">
+<div class="FormInput_field__crPEL">
+<label class="Label_label__AiTEy" for="pricing.price"></label><div class="InputElement_prefixGroup__1Jdit"><div class="InputElement_prefix__5Axun"><select id="coinselect" class="CoinSelect_coinSelect__cHpeV InputElement_select__GZZnj InputElement_input__LgRt4" name="coinselect" type="select"><option value="H2O">H2O </option><option value="OCEAN" selected="selected">OCEAN </option></select></div><input class="InputElement_input__LgRt4" id="pricing.price" type="number" min="1" placeholder="1" name="pricing.price" value="1"></div></div>
+<!--<div class="FormInput_error__VrcVt">Must be more or equal to 1</div>-->
+</div>
+<div class="Price_datatoken___sNDD"><h4>= <strong>1</strong> ADRBAR-75 <span class="Conversion_conversion___8Gua Price_conversion__6KDfp" title="Approximation based on the current spot price on Coingecko">≈ <strong><span>€</span>0.16</strong> </span></h4></div>
+</div></div></div></div></div>
+
+<div class="Price_price__HX81j" style="">
+<div class="Price_grid__TFEgU" style="max-width:40rem">
+<div class="Price_form__aMXjr">
+<h5 class="Fixed_title__vjfbk">Subscription Prices</h5>
+<p class="helptext" style="">Enter an amount of units, the unit of time, and the price for that number of units.</p>
 
 <div class="FormInput_field__crPEL">
-<label class="Label_label__AiTEy" for="pricing.price"></label>
-
-
 <table class="pricing">
   <tr>
     <th class="pricing" style="width:25%">Amount</th>
     <th class="pricing">Unit of Time</th>
-    <th class="pricing" style="width:25%">Price</th>
+    <th class="pricing" style="width:25%">Price/Units</th>
+    <th class="pricing" style="width:25%">Conversion</th>
   </tr>
   <tr>
     <td><div class="InputElement_prefixGroup__1Jdit"><input class="InputElement_input__LgRt4" type="number" min="1" placeholder="0" name="pricing.price" value="1"></div></td>
     <td><div class="InputElement_prefixGroup__1Jdit"><input class="InputElement_input__LgRt4" type="letter" min="1" placeholder="0" name="pricing.price" value="minute"></div></td>
-    <td><div class="InputElement_prefixGroup__1Jdit"><input class="InputElement_input__LgRt4" type="number" min="1" placeholder="0" name="pricing.price" value="1"></div></td>
+    <td><div class="InputElement_prefixGroup__1Jdit"><input class="InputElement_input__LgRt4" type="number" min="1" placeholder="0.1" name="pricing.price" value=""></div></td>
+    <td><div style=""><span class="Conversion_conversion___8Gua Price_conversion__6KDfp fontsize14" title="Approximation based on the current spot price on Coingecko">≈ <strong><span>€</span>0.02</strong> </span></div></td>
   </tr>
   <tr>
     <td><div class="InputElement_prefixGroup__1Jdit"><input class="InputElement_input__LgRt4" type="number" min="1" placeholder="0" name="pricing.price" value="1"></div></td>
     <td><div class="InputElement_prefixGroup__1Jdit"><input class="InputElement_input__LgRt4" type="letter" min="1" placeholder="0" name="pricing.price" value="hour"></div></td>
-    <td><div class="InputElement_prefixGroup__1Jdit"><input class="InputElement_input__LgRt4" type="number" min="1" placeholder="0" name="pricing.price" value="50"></div></td>
+    <td><div class="InputElement_prefixGroup__1Jdit"><input class="InputElement_input__LgRt4" type="number" min="1" placeholder="1" name="pricing.price" value=""></div></td>
+    <td><div style=""><span class="Conversion_conversion___8Gua Price_conversion__6KDfp fontsize14" title="Approximation based on the current spot price on Coingecko">≈ <strong><span>€</span>0.16</strong> </span></div></td>
+  </tr>
+  <tr>
+    <td><div class="InputElement_prefixGroup__1Jdit"><input class="InputElement_input__LgRt4" type="number" min="1" placeholder="0" name="pricing.price" value="1"></div></td>
+    <td><div class="InputElement_prefixGroup__1Jdit"><input class="InputElement_input__LgRt4" type="letter" min="1" placeholder="0" name="pricing.price" value="day"></div></td>
+    <td><div class="InputElement_prefixGroup__1Jdit"><input class="InputElement_input__LgRt4" type="number" min="1" placeholder="10" name="pricing.price" value=""></div></td>
+    <td><div style=""><span class="Conversion_conversion___8Gua Price_conversion__6KDfp fontsize14" title="Approximation based on the current spot price on Coingecko">≈ <strong><span>€</span>1.60</strong> </span></div></td>
+  </tr>
+  <tr>
+    <td><div class="InputElement_prefixGroup__1Jdit"><input class="InputElement_input__LgRt4" type="number" min="1" placeholder="0" name="pricing.price" value="1"></div></td>
+    <td><div class="InputElement_prefixGroup__1Jdit"><input class="InputElement_input__LgRt4" type="letter" min="1" placeholder="0" name="pricing.price" value="week"></div></td>
+    <td><div class="InputElement_prefixGroup__1Jdit"><input class="InputElement_input__LgRt4" type="number" min="1" placeholder="50" name="pricing.price" value=""></div></td>
+    <td><div style=""><span class="Conversion_conversion___8Gua Price_conversion__6KDfp fontsize14" title="Approximation based on the current spot price on Coingecko">≈ <strong><span>€</span>8.00</strong> </span></div></td>
+  </tr>
+  <tr>
+    <td><div class="InputElement_prefixGroup__1Jdit"><input class="InputElement_input__LgRt4" type="number" min="1" placeholder="0" name="pricing.price" value="1"></div></td>
+    <td><div class="InputElement_prefixGroup__1Jdit"><input class="InputElement_input__LgRt4" type="letter" min="1" placeholder="0" name="pricing.price" value="year"></div></td>
+    <td><div class="InputElement_prefixGroup__1Jdit"><input class="InputElement_input__LgRt4" type="number" min="1" placeholder="500" name="pricing.price" value=""></div></td>
+    <td><div style=""><span class="Conversion_conversion___8Gua Price_conversion__6KDfp fontsize14" title="Approximation based on the current spot price on Coingecko">≈ <strong><span>€</span>80.00</strong> </span></div></td>
+  </tr>
+    <td><div class="InputElement_prefixGroup__1Jdit"><input class="InputElement_input__LgRt4" type="number" min="1" placeholder="0" name="pricing.price" value="1"></div></td>
+    <td><div class="InputElement_prefixGroup__1Jdit"><input class="InputElement_input__LgRt4" type="letter" min="1" placeholder="0" name="pricing.price" value="forever"></div></td>
+    <td><div class="InputElement_prefixGroup__1Jdit"><input class="InputElement_input__LgRt4" type="number" min="1" placeholder="1000" name="pricing.price" value=""></div></td>
+    <td><div style=""><span class="Conversion_conversion___8Gua Price_conversion__6KDfp fontsize14" title="Approximation based on the current spot price on Coingecko">≈ <strong><span>€</span>160.00</strong> </span></div></td>
+  </tr>
+<!-- Manual setting option<tr>
+    <td style="text-align:center"><input type="checkbox" id="forever" name="forever" value="Set"> Set</td>
+    <td><div class="InputElement_prefixGroup__1Jdit"><input class="InputElement_input__LgRt4" type="letter" min="1" placeholder="0" name="pricing.price" value="forever"></div></td>
+    <td><div class="InputElement_prefixGroup__1Jdit"><input class="InputElement_input__LgRt4" type="number" min="1" placeholder="1000" name="pricing.price" value=""></div></td>
+  </tr>-->
+  <tr>
+    <td colspan="2"><div class="InputElement_prefixGroup__1Jdit"><a class="function" href="#"><span style="background-color:white">&nbsp;➕&nbsp;</span>&nbsp;&nbsp;<strong>Add a row to the table</strong></a></div></td>
+    <td colspan="2" style="text-align:right"><button class="Button_button__sim_X Button_primary__dkX0W Button_small__UWwt3">Validate Prices</button>
+    </td>
   </tr>
 </table>
-
-
-<!--<div class="InputElement_prefix__5Axun">&nbsp;Time Length</div><div class="InputElement_prefix__5Axun">Unit of Time&nbsp;</div></div></div>
-
-<div class="FormInput_field__crPEL"><div class="InputElement_prefixGroup__1Jdit"><input class="InputElement_input__LgRt4" id="pricing.price1" type="number" min="1" placeholder="0" name="pricing.price" value="0"> &nbsp; <input class="InputElement_input__LgRt4" id="pricing.price2" type="letter" min="*" placeholder="hour" name="pricing.price" value="minute"> &nbsp;/&nbsp; <input class="InputElement_input__LgRt4" id="pricing.price2" type="letter" min="*" placeholder="hour" name="pricing.price" value="minute"></div></div>
-<div class="FormInput_field__crPEL"><div class="InputElement_prefixGroup__1Jdit"><input class="InputElement_input__LgRt4" id="pricing.price3" type="number" min="1" placeholder="0" name="pricing.price" value="0"> &nbsp; <input class="InputElement_input__LgRt4" id="pricing.price4" type="letter" min="*" placeholder="hour" name="pricing.price" value="hour"></div></div>
-<div class="FormInput_field__crPEL"><div class="InputElement_prefixGroup__1Jdit"><input class="InputElement_input__LgRt4" id="pricing.price5" type="number" min="1" placeholder="0" name="pricing.price" value="0"> &nbsp; <input class="InputElement_input__LgRt4" id="pricing.price6" type="letter" min="*" placeholder="hour" name="pricing.price" value="day"></div></div>
-<div class="FormInput_field__crPEL"><div class="InputElement_prefixGroup__1Jdit"><input class="InputElement_input__LgRt4" id="pricing.price" type="number" min="1" placeholder="0" name="pricing.price7" value="0"> &nbsp; <input class="InputElement_input__LgRt4" id="pricing.price8" type="letter" min="*" placeholder="hour" name="pricing.price" value="week"></div></div>
-<div class="FormInput_field__crPEL"><div class="InputElement_prefixGroup__1Jdit"><input class="InputElement_input__LgRt4" id="pricing.price9" type="number" min="1" placeholder="0" name="pricing.price10" value="0"> &nbsp; <input class="InputElement_input__LgRt4" id="pricing.price" type="letter" min="*" placeholder="hour" name="pricing.price" value="month"></div></div>
-<div class="FormInput_field__crPEL"><div class="InputElement_prefixGroup__1Jdit"><input class="InputElement_input__LgRt4" id="pricing.price9" type="number" min="1" placeholder="0" name="pricing.price10" value="0"> &nbsp; <input class="InputElement_input__LgRt4" id="pricing.price" type="letter" min="*" placeholder="hour" name="pricing.price" value="year"></div></div>-->
-
-<!-- <div class="FormInput_error__VrcVt">Must be more or equal to 1</div>-->
 </div>
+<div class="validate_pricing">
+<p class="helptext" style="">Rows that are incomplete will be dropped.</p>
+<!--<button class="Button_button__sim_X Button_primary__dkX0W Button_small__UWwt3">Validate Prices</button>-->
+</div></div></div></div>
 
-<div class="Price_datatoken___sNDD">
-
-<!--<div class="FormInput_field__crPEL"><label class="Label_label__AiTEy" for="pricing.price"></label><div class="InputElement_prefixGroup__1Jdit"><div class="InputElement_prefix__5Axun">&nbsp;Price in tokens</div></div></div>
-
-<div class="FormInput_field__crPEL"><div class="InputElement_prefixGroup__1Jdit"><input class="InputElement_input__LgRt4" id="pricing.price9" type="number" min="1" placeholder="0" name="pricing.price10" value="0"> &nbsp; OCEAN</div></div>-->
-
-
-
-<h4>= <strong>1</strong> IRKTUR-14 </h4>-->
-</div>
-
-</div>
-</div>
 
 <div class="Fees_fees__A53Ij">
-<div class="FormInput_field__crPEL"><label class="Label_label__AiTEy" for="communityFee">Community Swap Fee<div class="Tooltip_tooltip__Fe0Cu " aria-expanded="false"><svg width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" class="Tooltip_icon__3_pJl"><path fill-rule="evenodd" clip-rule="evenodd" d="M10 1.538a8.462 8.462 0 1 0 0 16.924 8.462 8.462 0 0 0 0-16.924ZM0 10C0 4.477 4.477 0 10 0s10 4.477 10 10-4.477 10-10 10S0 15.523 0 10Zm10-1.538a.77.77 0 0 1 .77.769v6.154a.77.77 0 0 1-1.54 0V9.23a.77.77 0 0 1 .77-.77Zm0-3.847a1.154 1.154 0 1 0 0 2.308 1.154 1.154 0 0 0 0-2.308Z"></path></svg></div></label><div class="InputElement_postfixGroup__t61xI"><input class="InputElement_input__LgRt4 InputElement_small__LW5zz" id="communityFee" type="text" name="communityFee" readonly="" value="0.1"><div class="InputElement_postfix__l3d6P InputElement_small__LW5zz">%</div></div></div><div class="FormInput_field__crPEL"><label class="Label_label__AiTEy" for="marketplaceFee">Marketplace Fee<div class="Tooltip_tooltip__Fe0Cu " aria-expanded="false"><svg width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" class="Tooltip_icon__3_pJl"><path fill-rule="evenodd" clip-rule="evenodd" d="M10 1.538a8.462 8.462 0 1 0 0 16.924 8.462 8.462 0 0 0 0-16.924ZM0 10C0 4.477 4.477 0 10 0s10 4.477 10 10-4.477 10-10 10S0 15.523 0 10Zm10-1.538a.77.77 0 0 1 .77.769v6.154a.77.77 0 0 1-1.54 0V9.23a.77.77 0 0 1 .77-.77Zm0-3.847a1.154 1.154 0 1 0 0 2.308 1.154 1.154 0 0 0 0-2.308Z"></path></svg></div></label><div class="InputElement_postfixGroup__t61xI"><input class="InputElement_input__LgRt4 InputElement_small__LW5zz" id="marketplaceFee" type="text" name="marketplaceFee" readonly="" value="0"><div class="InputElement_postfix__l3d6P InputElement_small__LW5zz">%</div></div></div></div></div><div class="react-tabs__tab-panel" role="tabpanel" id="panel:r0:1" aria-labelledby="tab:r0:1"></div></div></div><footer class="Actions_actions__QFXHB"><button class="Button_button__sim_X">Back</button><button class="Button_button__sim_X Button_primary__dkX0W" disabled="">Continue</button></footer></form><div class="Debug_debug__HKPSH"><div style="margin-top: var(--spacer);"><h5>Collected Form Values</h5><pre style="overflow-wrap: break-word;"><code>{
+<div class="FormInput_field__crPEL"><label class="Label_label__AiTEy" for="communityFee">Community Swap Fee<div class="Tooltip_tooltip__Fe0Cu " aria-expanded="false"><svg width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" class="Tooltip_icon__3_pJl"><path fill-rule="evenodd" clip-rule="evenodd" d="M10 1.538a8.462 8.462 0 1 0 0 16.924 8.462 8.462 0 0 0 0-16.924ZM0 10C0 4.477 4.477 0 10 0s10 4.477 10 10-4.477 10-10 10S0 15.523 0 10Zm10-1.538a.77.77 0 0 1 .77.769v6.154a.77.77 0 0 1-1.54 0V9.23a.77.77 0 0 1 .77-.77Zm0-3.847a1.154 1.154 0 1 0 0 2.308 1.154 1.154 0 0 0 0-2.308Z"></path></svg></div></label><div class="InputElement_postfixGroup__t61xI"><input class="InputElement_input__LgRt4 InputElement_small__LW5zz" id="communityFee" type="text" name="communityFee" readonly="" value="0.1"><div class="InputElement_postfix__l3d6P InputElement_small__LW5zz">%</div></div></div><div class="FormInput_field__crPEL"><label class="Label_label__AiTEy" for="marketplaceFee">Marketplace Fee<div class="Tooltip_tooltip__Fe0Cu " aria-expanded="false"><svg width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" class="Tooltip_icon__3_pJl"><path fill-rule="evenodd" clip-rule="evenodd" d="M10 1.538a8.462 8.462 0 1 0 0 16.924 8.462 8.462 0 0 0 0-16.924ZM0 10C0 4.477 4.477 0 10 0s10 4.477 10 10-4.477 10-10 10S0 15.523 0 10Zm10-1.538a.77.77 0 0 1 .77.769v6.154a.77.77 0 0 1-1.54 0V9.23a.77.77 0 0 1 .77-.77Zm0-3.847a1.154 1.154 0 1 0 0 2.308 1.154 1.154 0 0 0 0-2.308Z"></path></svg></div></label><div class="InputElement_postfixGroup__t61xI"><input class="InputElement_input__LgRt4 InputElement_small__LW5zz" id="marketplaceFee" type="text" name="marketplaceFee" readonly="" value="0"><div class="InputElement_postfix__l3d6P InputElement_small__LW5zz">%</div></div></div></div></div><div class="react-tabs__tab-panel" role="tabpanel" id="panel:r0:1" aria-labelledby="tab:r0:1"></div>
+</div>
+</div>
+
+
+<footer class="Actions_actions__QFXHB"><button class="Button_button__sim_X">Back</button><button class="Button_button__sim_X Button_primary__dkX0W" disabled="">Continue</button></footer></form><div class="Debug_debug__HKPSH"><div style="margin-top: var(--spacer);"><h5>Collected Form Values</h5><pre style="overflow-wrap: break-word;"><code>{
   "user": {
     "stepCurrent": 3,
     "chainId": 80001,
