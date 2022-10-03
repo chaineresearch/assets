@@ -24,29 +24,28 @@
 
 <style>
 /* include in datastreams.css */
-
-table.pricing {
+table.pricing_schema {
   border: 1px solid #303030;
   border-collapse: collapse;
 }
-table.pricing th {
+table.pricing_schema th {
   text-align: left;
   font-size: 15px;
-  width:25%;
+  width: 25%;
 }
-p.helptext {
-  margin:0.1rem 0 0.8rem;
-  color:#8b98a9;
-  font-size:13px;
+p.help_text {
+  margin: 0.1rem 0 0.8rem;
+  color: #8b98a9;
+  font-size: 13px;
 }
 div.validate_pricing {
-  margin:1rem 0;
+  margin: 1rem 0;
 }
 span.fontsize14 {
-  font-size:14px
+  font-size: 14px
 }
-a.function {
-  color:#fff;
+a.function_link {
+  color: #fff;
 }
 </style>
 
@@ -54,12 +53,13 @@ a.function {
 
 <h4 class="Fixed_title__vjfbk">Pricing<svg width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" class="Title_infoIcon__moj1D Actions_infoIcon__zwDh8"><path fill-rule="evenodd" clip-rule="evenodd" d="M10 1.538a8.462 8.462 0 1 0 0 16.924 8.462 8.462 0 0 0 0-16.924ZM0 10C0 4.477 4.477 0 10 0s10 4.477 10 10-4.477 10-10 10S0 15.523 0 10Zm10-1.538a.77.77 0 0 1 .77.769v6.154a.77.77 0 0 1-1.54 0V9.23a.77.77 0 0 1 .77-.77Zm0-3.847a1.154 1.154 0 1 0 0 2.308 1.154 1.154 0 0 0 0-2.308Z"></path></svg></h4>
 
+<!-- 2 local overrides -->
 <div class="Price_price__HX81j" style="margin-bottom:2.3rem">
 <div class="Price_grid__TFEgU" style="max-width:40rem">
 <div class="Price_form__aMXjr" style="">
 
 <h5 class="Fixed_title__vjfbk">Price Ratio</h5>
-<p class="helptext" style="">The amount of the selected base token determines the value of the datatoken.</p>
+<p class="help_text" style="">The amount of the selected base token determines the value of the datatoken.</p>
 
 <div class="Price_price__HX81j">
 <div class="Price_grid__TFEgU">
@@ -73,14 +73,15 @@ a.function {
 <div class="Price_datatoken___sNDD"><h4>= <strong>1</strong> ADRBAR-75 <span class="Conversion_conversion___8Gua Price_conversion__6KDfp" title="Approximation based on the current spot price on Coingecko">≈ <strong><span>€</span>0.16</strong> </span></h4></div>
 </div></div></div></div></div>
 
+<!-- 2 local overrides -->
 <div class="Price_price__HX81j" style="">
 <div class="Price_grid__TFEgU" style="max-width:40rem">
 <div class="Price_form__aMXjr">
 <h5 class="Fixed_title__vjfbk">Subscription Prices</h5>
-<p class="helptext" style="">Enter an amount of units, the unit of time, and the price for that number of units.</p>
+<p class="help_text" style="">Enter an amount of units, the unit of time, and the price for that number of units.</p>
 
 <div class="FormInput_field__crPEL">
-<table class="pricing">
+<table class="pricing_schema">
   <tr>
     <th>Amount</th>
     <th>Unit of Time</th>
@@ -128,19 +129,19 @@ a.function {
     <td><div class="InputElement_prefixGroup__1Jdit"><input class="InputElement_input__LgRt4" type="number" placeholder="1000" name="pricing.subscription" value=""></div></td>
   </tr>-->
   <tr>
-    <td colspan="2""><a class="function" href="#">
+    <td colspan="2""><a class="function_link" href="#">
       <svg style="display:inline-block;margin-bottom:-0.5rem" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
         <path fill-rule="evenodd" clip-rule="evenodd" d="M12 4C7.58172 4 4 7.58172 4 12C4 16.4183 7.58172 20 12 20C16.4183 20 20 16.4183 20 12C20 7.58172 16.4183 4 12 4ZM2 12C2 6.47715 6.47715 2 12 2C17.5228 2 22 6.47715 22 12C22 17.5228 17.5228 22 12 22C6.47715 22 2 17.5228 2 12Z" fill="white"/>
         <path fill-rule="evenodd" clip-rule="evenodd" d="M12 17C11.4477 17 11 16.5523 11 16L11 8C11 7.44771 11.4477 7 12 7C12.5523 7 13 7.44771 13 8L13 16C13 16.5523 12.5523 17 12 17Z" fill="white"/>
         <path fill-rule="evenodd" clip-rule="evenodd" d="M7 12C7 11.4477 7.44772 11 8 11H16C16.5523 11 17 11.4477 17 12C17 12.5523 16.5523 13 16 13H8C7.44772 13 7 12.5523 7 12Z" fill="white"/>
       </svg>&nbsp;<strong>Add a row to the table</strong></a></td>
-    <td colspan="2" style="text-align:right"><button class="Button_button__sim_X Button_primary__dkX0W Button_small__UWwt3">Validate Prices</button>
+    <td colspan="2" style="text-align:right"><button class="Button_button__sim_X Button_primary__dkX0W Button_small__UWwt3">Validate Pricing</button>
     </td>
   </tr>
 </table>
 <div class="validate_pricing">
 
-<p class="helptext" style="">Rows that are incomplete will be dropped.</p>
+<p class="help_text" style="">Rows that are incomplete will be dropped.</p>
 <!--<button class="Button_button__sim_X Button_primary__dkX0W Button_small__UWwt3">Validate Prices</button>--></div>
 </div>
 </div></div></div>
