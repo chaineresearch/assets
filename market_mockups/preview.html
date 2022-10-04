@@ -29,9 +29,15 @@ div.subscription_option {
   padding: 0.3rem 0;
   color: #c8c9d5;
 }
+div.subscription_option label {
+	margin-left: 0.3rem;
+}
 span.price_numeric {
   color: white;
   font-weight: bold;
+}
+input.subscription_option_unchecked {
+  border: 2px solid #666;
 }
 </style>
 
@@ -54,37 +60,37 @@ span.price_numeric {
 
 <div class="subscription_options">
 <div class="subscription_option">
-<input type="radio" id="price1" name="pricing" value="0.02">
+<input type="radio" class="subscription_option_unchecked InputRadio_radio__a_0Xf InputElement_input__LgRt4" id="price1" name="pricing" value="0.02">
 <label for="price1">1 minute / <span class="price_numeric">0.1</span> OCEAN <span class="Conversion_conversion___8Gua " title="Approximation based on the current spot price on Coingecko">≈ <strong><span>€</span>0.02</strong> </span></label>
 </div>
 
 <div class="subscription_option">
-<input type="radio" id="price2" name="pricing" value="0.16">
+<input type="radio" class="subscription_option_unchecked InputRadio_radio__a_0Xf InputElement_input__LgRt4" id="price2" name="pricing" value="0.16">
 <label for="price2">1 hour / <span class="price_numeric">1</span> OCEAN <span class="Conversion_conversion___8Gua " title="Approximation based on the current spot price on Coingecko">≈ <strong><span>€</span>0.16</strong> </span></label>
 </div>
 
 <div class="subscription_option">
-<input type="radio" id="price3" name="pricing" value="1.6">
+<input type="radio" class="InputRadio_radio__a_0Xf InputElement_input__LgRt4" id="price3" name="pricing" value="1.6" checked>
 <label for="price3">1 day / <span class="price_numeric">10</span> OCEAN <span class="Conversion_conversion___8Gua " title="Approximation based on the current spot price on Coingecko">≈ <strong><span>€</span>1.60</strong> </span></label>
 </div>
 
 <div class="subscription_option">
-<input type="radio" id="price4" name="pricing" value="8">
+<input type="radio" class="subscription_option_unchecked InputRadio_radio__a_0Xf InputElement_input__LgRt4" id="price4" name="pricing" value="8">
 <label for="price4">1 week / <span class="price_numeric">50</span> OCEAN <span class="Conversion_conversion___8Gua " title="Approximation based on the current spot price on Coingecko">≈ <strong><span>€</span>8.00</strong> </span></label>
 </div>
 
 <div class="subscription_option">
-<input type="radio" id="price5" name="pricing" value="80">
+<input type="radio" class="subscription_option_unchecked InputRadio_radio__a_0Xf InputElement_input__LgRt4" id="price5" name="pricing" value="80">
 <label for="price5">1 year / <span class="price_numeric">500</span> OCEAN <span class="Conversion_conversion___8Gua " title="Approximation based on the current spot price on Coingecko">≈ <strong><span>€</span>80.00</strong> </span></label>
 </div>
 
 <div class="subscription_option">
-<input type="radio" id="price6" name="pricing" value="160">
+<input type="radio" class="subscription_option_unchecked InputRadio_radio__a_0Xf InputElement_input__LgRt4" id="price6" name="pricing" value="160">
 <label for="price6">Forever / <span class="price_numeric">1000</span> OCEAN <span class="Conversion_conversion___8Gua " title="Approximation based on the current spot price on Coingecko">≈ <strong><span>€</span>160.00</strong> </span></label>
 </div>
 </div>
 
-<div class="ButtonBuy_actions__JNpFD" style=""><button class="Button_button__sim_X Button_primary__dkX0W ButtonBuy_actionsCenter__UV8wK" style="margin-top:1px;" disabled="0">Subscribe</button>
+<div class="ButtonBuy_actions__JNpFD" style=""><button class="Button_button__sim_X Button_primary__dkX0W ButtonBuy_actionsCenter__UV8wK" style="margin-top:1px;">Subscribe</button>
 <div class="ButtonBuy_help__B4gDr">For subscribing to this datastream, you will buy the given amount of ADRBAR-75 tokens and immediately spend them back to the publisher.</div>
 </div>
 </div>
