@@ -1,0 +1,7 @@
+﻿Meeting
++ Write blog post announcing the Hypercert for Gitcoin Beta
+  - Proof of Donation
++ Move some ETH to the chaineresearch wallet
++ Research projects we want to support
++ Tweet a thankyou to ensredirect
+- Promote the GG18 grants, if approved
