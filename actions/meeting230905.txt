@@ -1,0 +1,6 @@
+﻿Meeting
++ K: Make a local backup of the website before Sept 10th.
+  + Investigate command arguments
+- Wix: expires on Sept 24th, will be charged on the 10th.
+  + Investigate alternatives
+  + A: Cancel subscription
