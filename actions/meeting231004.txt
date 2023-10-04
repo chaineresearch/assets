@@ -1,0 +1,5 @@
+﻿Meeting
++ Cleanup the main page of the site on Github Pages
+  - Delete out-of-date stuff like quotes and the contact form
++ Save As the project subpages, S&R the folder name, upload to Github
++ Investigate getting chaineresearch.org to point to Github
