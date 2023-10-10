@@ -1,0 +1,3 @@
+﻿Meeting
++ K: s/r export folder names, test
++ A: Investigate website folder naming in IPFS
