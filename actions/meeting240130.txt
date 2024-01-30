@@ -1,0 +1,13 @@
+Meeting notes 30 jan 24
+- K: We also discussed this list briefly and you said that you’ll look at it and see if any of the grants might be of interest to us.
+  https://iffr.com/en/iffr/2024/per-day
+- A: Write down questions for the Zoom meeting
+  - Why is the wiki ahead of the code?
+    - Maybe a ‘mockup’ where ideas get crystallized, then implemented in code
+  - Do we need to add new classes, new axioms..
+  - ...
+  - What’s the status of the Research and Engagement WGs?
+- Using Protege, Abhi has it working
+  - OWL: Ontology World Language is the coding language
+- K: Look for the tracking quote
+- Hypercerts coming soon
