@@ -1,0 +1,10 @@
+Meeting notes 14 feb 24
+- K: The WG call was a lot of semantics crossing over into semiotics :)
++ K: will write up a Blog post about our WG contribution
+  - Will send a draft link to the WG guys too
+- K: the HyperMinter testing was partially successful.
+  - It eventually worked but no image is showing up in the Hypercert site.
+  + Will report to the developer
++ A: will do the Pull request for the ontology
++ A: Write back to the Backdrop guy in order to build a relation for the future
+- Abhi will be in India 2-22 March
