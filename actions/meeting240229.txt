@@ -1,0 +1,20 @@
+Meeting notes 29 feb 24
+
+Ontology WG
+- Suggest to CCN if anybody wants to test the ontology.
+- First ask the WG guys about finding a testing party, we know some projects.
+  - They need ...a ‘usable’ version
+  - How would it be integrated?
+- Explain that Ruy couldn’t see how it would be used
+- The diagram makes it more concrete or tangible
+- They need real-world feedback, seems like it’s time
+
+Communication/Promotion
++ K: Change the DNS to IPFS
+- K: Check out Climate Collective, link in Telegram
++ K: Look at the Hypercert Collection to see if images show up
+- K: maybe there’s a Hypercert Tg group
+
+Planning
+- Abhi will be in India from March 2nd-22nd
+- Kit will be in Mexico first nine days of April
