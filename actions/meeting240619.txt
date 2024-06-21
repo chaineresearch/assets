@@ -1,0 +1,5 @@
+Meeting notes 19 jun 24 wed
++ K: Change cr.eth to go to .org
+  - First do some research about using the .eth domain
+- Let’s be involved in the Greenpill community and see what develops
++ Investigate the IPFS CID problem
