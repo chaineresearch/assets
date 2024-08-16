@@ -1,0 +1,11 @@
+Meeting notes 15 aug 24, thu
+- We decided to donate to all 70 projects in the CCN round, and selected projects in the Regen Coordi-Nation Genesis (Celo) round.
+- Also a few infrastructure projects to which we’ve donated before.
++ K: Withdraw the earnings from the Idle pool.
++ K: Bridge some cap to Arbitrum.
++ K: Bridge some cap to Celo.
++ K: Convert as needed.
++ A&K: Compile a list of projects we want to donate to.
+  - e.g. + Donate to Shuhei who made the ggframe.xyz donation frame. https://explorer.gitcoin.co/#/round/42161/389/55
+- If we then do the transactions at next week’s meeting we’ll be done 1 day before the deadline.
++ A&K: post donation requests to our social networks for AIAO in the next days.
