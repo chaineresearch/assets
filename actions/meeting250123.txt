@@ -1,0 +1,861 @@
+Meeting notes 23 jan 25, thu
+
+Archive of RiseUp:
+
+Greenpill and other Meeting Notes
+
+Notes on various meetings, too long to paste in Telegram, or requiring formatting.
+
+
+◊ Octant Town Hall – 23 jan 25, thu
+Some attendees: Coi, Wasabi, Jon Ruth
+- Ben: Sustainability of funding, for funders and donors
+  - A way to reward donors if your consistent with your funding
+  - Announcement over the next couple of months, incentives for the donors
+- Epoch 7 will be the same
+- Alpha: if you are able to amplify messages on Twitter and Farcaster, that will increase your chanced of winning the sweepstakes
+
+
+◊ GP Dev Guild Chat – 21 jan 25, tue
+Matt Strachman 8:04 PM 
+AGENDA
+Allo Capital Office Hours Takeaways
+Crypto Altruists Podcast
+AI Hackathon
+Polygon Grant
+Working Capital Database
+DeSci Round Funding
+https://docs.google.com/presentation/d/1R096EFtdbNcyHYeICkkbeslEN_fwowuLAigTuJfWr4I/edit#slide=id.g326d93b6213_0_1540
+https://docs.google.com/document/d/1oeiUcUQEIfy7a-Ai7jkuWQT8iXcug1-q1piWxpVskso/edit?tab=t.0#heading=h.a2esaoud2994
+https://t.me/c/2436853036/12/884
+- ETHDenver: Coi will arrive the 18th [start is the 23rd?]
+koH io 8:32 PM https://www.gitcoin.co/blog/polygon-launch-the-ultimate-ai-battle-royale
+  This is the one I thought
+Kit 8:34 PM Isn't it this one?
+  https://ethglobal.com/events/agents
+  Their hackathons are really well organized
+Evan Hudson 8:36 PM Has anyone made an AI agent framework for ERC6551 token bound account NFTs? They are like NFTs with built in wallets that can hold other tokens
+Bertrand Juglas 8:37 PM yes I've seen one but not digged into it yet
+  that's also a topic I would like to explore.
+Matt Strachman 8:39 PM https://polygon.technology/blog/polygon-community-grants-program-announces-season-2-with-35m-pol-and-ai-leading-the-pack
+Here is the weekly infiniteregen luma https://lu.ma/cia4ekye?tk=EhFHt3
+
+
+◊ Allo Capital Miro session – 17 jan 25, fri
+https://miro.com/app/board/uXjVLwW74i4=/
+- Payouts to European citizens may have to deal with the ‘Travel Rule’
+- Kevin Owocki 6:53 PM https://github.com/orgs/allocapital/projects/5
+- Kevin Owocki 7:36 PM https://github.com/allocapital/tomeofknowledge/issues/64
+  here u go https://github.com/allocapital/allo.capital/issues/3
+
+
+◊ GP Network Community Call - 15 jan 25, wed
+Matt Strachman 7:05 PM
+📹 Please be advised that this call is being recorded
+🟢 Charmverse - https://app.charmverse.io/greenpill-network/📝 Hub - https://hub.greenpill.network/
+💬 Discord Invite - https://discord.gg/greenpill
+👥 Telegram Invite - https://t.me/+g9TM8i7GpxAzMGUx
+🎉 Events Calendar - https://lu.ma/greenpill-network
+📆 Meetings Calendar - https://calendar.google.com/calendar/u/0?cid=Y18zYTFlN2Y3NTNiYzEyMDY2NjA5ZDY1NzE4OTczZGNjYmRiYjYwMjMyNWEzMjdlNzNkM2M2OWMwMjk5ZDEyMDQ2QGdyb3VwLmNhbG
+Community server - https://forms.gle/tCHZmgqasZDyy24m8
+POAP mint is open for the next hour (until 2:30 pm est)
+On the POAP mobile app the secret word is greenpill-2025
+Kevin Owocki 8:18 PM would love to get this all written down into a 1 pager i could share with ppl to channel some attention/resources in
+  brb doorbell
+TYME INC. CEO B. CAULEY 8:18 PM my https://www.linkedin.com/brandoncauley
+Jose Cabrera 8:21 PM TYMED! i will reach on dm's!
+Eve Marenghi 8:21 PM @nick can you share your contact info? RedHook, Brooklyn
+evo swift 8:24 PM Sorry that have to leave now.  Good to participate the community call
+Irthu Suresh 8:27 PM https://docsend.com/view/sqra3t5k7amrjgw7
+Nick Brown 8:28 PM https://www.linkedin.com/in/nickinparadise +1 416 949 4695 on WhatsApp, @nickinparadise on Telegram
+Zachary Marlow - based in NYC, very articulate, broke
+Jose Cabrera 8:52 PM gotago, thanks for the space, great vibe
+Paul Glavin 8:52 PM https://hackmd.io/aU1lSpnaRN-tWtNuVIjmFA
+^ working doc on goals of an LA fire relief effort + resources
+Paul Glavin 8:54 PM Can everyone interested in being part of a relief effort add their telegram handle here?
+KoH - we’re going to be there on the 18th
+Zachary Marlow 8:56 PM cash app: $zazzmar
+venmo: zachary-marlow
+Matt Strachman 8:56 PM https://x.com/omniharmonic/status/1878634213454606733?mx=2
+Irthu Suresh 8:57 PM Hey everyone I am dropping off now, Loved the session, happy to connect with you all. See you all soon. https://x.com/IrthuSuresh
+Matt Strachman 8:58 PM https://explorer.gitcoin.co/#/round/42161/636/8
+Zachary Marlow 9:02 PM anotherworld.earth
+
+
+◊ GreenWill Sync – 14 jan 25, tue
+Chris Georgen 9:44 PM
+https://github.com/orgs/greenpill-dev-guild/projects/13/views/1?filterQuery=greenwill
+https://excalidraw.com/#json=r8JAoJglVh3oO31SIlZCH,deZLZ9nGr0rPk-SDoYWyQA
+
+
+◊ GP Dev Guild Chat – 14 jan 25, tue
+√ Discuss Allo Yeeter Retrospective
+Review Task Board
+√ Support Vrbs Proposal
+√ Greenpill Monthly Call
+√ Review Dev Guild Survey Results
+√ Marketing Brand Kit Competition
+ETHGlobal AI Hackathon
+
+- Sofía Villarreal 8:05 PM gmgm! sofia from mexico here! glad to be joining, this is my first call, i joined the guild because of the brand kit contest
+- Afo: suggest buying a Vrb, you can also buy voting power
+  - #26 Vrbs x Greenpill Denver 2026
+Livia Panez 8:40 PM I comming because kowh invite me from the last meeting
+Kit 8:40 PM Welcome Livia
+Afolabi Aiyeloja 8:39 PM https://gov.gitcoin.co/t/gcp-xxx-allo-yeeter-recycling-growing-gmv-with-simple-allocation/19852
+Kit 8:44 PM Evan, here's a post from August about Category creation: https://gov.gitcoin.co/t/capital-allocation-category-creation-strategy-2024/19256
+- Gardens: has signaling pools with no funds
+Afolabi Aiyeloja 8:59 PM https://gardens-v2-dev.vercel.app/gardens/421614/0xcc6c8b9f745db2277f7aac1bc026d5c2ea7bd88d/0x289ae94e0315a1ed33f8ecdeee614e4733ceea55
+Evan Hudson 9:01 PM Olivia, If you are interested in Amazon regeneration you should join the Regen Foundation call on Thursday around this time!
+  Here is the link: https://us02web.zoom.us/j/85995233779?pwd=ejJoVEdhYXE3dFhDRndBcEVNNW9MUT09
+
+
+◊ VDAO Community Call – 14 jan 25, tue
+Host: Kris Millar (Irish?)
+In 2025: Nature & Tech Immersive Experiences
+KoH: Also, Green Pill Deb Guild is woking on some volunteer work in ETHDenver from Feb 18th to 23rd specifically
+V-Pass sort of passport that tracks VDAO activity. It’s a reputation gauge.
+Gotta leave for my next meeting, but it’s great to see VDAO’s activity and progress! Maybe we’ll meet in Denver..
+
+
+◊ 2025 01 14 Standards WG Meeting – 14 jan 25, tue
+Attending: Christiaan, Alex, Alfonso, 13 minutes later Jeff
+https://lf-hyperledger.atlassian.net/wiki/spaces/CASIG/pages/75661422/2025+01+14+Standards+WG
+- Happy New Year greetings, I also said “Beste wensen” in Dutch which Christiaan and Alex found amusing.
+IKI grant
+- Christiaan: It seems very specific, I think it will be difficult.
+- Jeff: is also submitting for Gitcoin
+Silvi - Explore integration possibility with Silvi’s ontology for Treekipedia
+- Christian: A discussion from the Nova Institute
+- Alex: https://www.silvi.earth/
++ Kit: send Caué email to Christiaan
+A proposal to the insurance industry to help measure risk with AIAO
+- Christiaan: We are talking about the debt structure
+- Alfonso: neuro-symbolic AI, knowledge graph, one pathway I’m looking at
+Definitions
+- Alex: we want to get to the definitions
+- Christiaan: we were very close to done
+...defining
+  - Note: Is an indicator a representation of the parameter data?
+- Christiaan: we’re at the hour, let’s meet next week
+  - When we’re done we’ll need some resources to update the OWL file. 
+
+
+◊ BD Meeting – 13 jan 25, mon Full Moon
+Final BD sync agenda
+- Review grant sourcing
+- Discuss Allo Yeeter GCP
+- Discuss Glo Dollar Grant Round
+- Discuss ENS Builders application for GreenWill
+- Discuss GreenWill X Prosperity Passport
+- Discuss Green Goods partnerships
+
+https://www.cryptoaltruism.org/blog/category/Trailblazers+of+Octant
+https://gov.gitcoin.co/t/gcp-xxx-allo-yeeter-recycling-growing-gmv-with-simple-allocation/19852
+Chris Georgen 10:52 PM https://gov.gitcoin.co/t/capital-allocation-category-creation-strategy-2024/19256
+
+
+◊ GreenWill Sync – 07 jan 25, tue
+Afolabi Aiyeloja 9:51 PM https://app.charmverse.io/greenpill-dev-guild/bounties-36747173429106916
+https://app.charmverse.io/greenpill-dev-guild/bounty-database-9448689313778666?viewId=cb509560-7fb1-4af7-a80d-9ed55b036da0&cardId=
+https://app.charmverse.io/greenpill-dev-guild/create-5-10-bounties-for-q1-2025-5778930768539294
+
+
+◊ Dev Guild Chat – 07 jan 25, tue
+Intro
+Brand Kit Competition
+Go Claim GreenWill
+Green Goods Update
+Review Task Board
+Celo Retro Citizens Round
+
+Discussion
+Phasing Out Branch Sync
+Allo Yeeter Proposal
+Allo Growth
+Iceboxing Impact Reef and Greenpill Commons
+
+Closing
+EoY Survey Reminder
+Joining Other Communities
+
+Afolabi Aiyeloja 8:11 PM 
+https://guild.xyz/greenwill
+Give feedback here, https://discord.com/channels/1252464246873129021/1253174411285237863
++ easyretropgf https://easyretropgf.xyz/celo-citizen-retro
+https://gov.gitcoin.co/t/allo-gitcoin-do-they-make-more-sense-together-or-seperate/19730
+https://app.charmverse.io/greenpill-dev-guild/allo-yeeter-gcp-7164871475102499
+https://gov.gitcoin.co/t/allo-gitcoin-do-they-make-more-sense-together-or-seperate/19730
+Kit: https://gov.gitcoin.co/t/how-might-we-fund-what-matters-better-faster-cheaper-in-2025/19819/2
+https://calendar.app.google/KHJMsF1TpqmASz6o6
+
+
+◊ Hand Protocol X Greenpill Dev Guild Space #6 – 20 dec 24, fri
+- Hand = Holistic Approach to Nurture and Develop
+POAP: build-2025-green (minted in the CR wallet too, now that I have multiple phones)
+
+
+◊ BD Meeting – 16 dec 24, mon
+Agenda
+- Discuss Octant revamp
+- Discuss Celo/Regen Coordination grant opportunities
+- Discuss Allo RFC and Sov convo
+- Determine grant application to work on over holidays
+Yessil “kirr0yal” Adil 10:11 PM https://warpcast.com/kirr0yal/0x9d579c7e
+Afolabi Aiyeloja 10:22 PM https://discuss.octant.app/t/refi-dao-2-0-a-network-society-to-regenerate-the-earth/617
+Matt Strachman 10:22 PM https://x.com/gp_dev_guild/status/1868763003992392019
+Afolabi Aiyeloja 10:23 PM https://www.commonapproach.org/common-impact-data-standard/
++ Afolabi Aiyeloja 10:27 PM https://gov.gitcoin.co/t/2025-trends-to-watch-gitcoin/19362  https://gov.gitcoin.co/t/allo-gitcoin-do-they-make-more-sense-together-or-seperate/19730 https://gov.gitcoin.co/t/capital-allocation-category-creation-strategy-2024/19256
+Afolabi Aiyeloja 10:30 PM https://certified.thriveprotocol.com/
+Afolabi Aiyeloja 8:28 PM https://forum.polygon.technology/
+  https://drive.google.com/file/d/1fLesRgHGDsFi6WPLatlRcqDEf-7xlx5g/view
+You 8:32 PM This was a good read: https://gov.optimism.io/t/lessons-learned-from-two-years-of-retroactive-public-goods-funding/9239
+  I'm impressed by the high level of the steering of the collective/ecosystem.
+Afolabi Aiyeloja 8:46 PM https://gov.optimism.io/t/the-future-of-optimism-governance/6471
+  https://gov.optimism.io/t/season-7-intent/9292
+  https://gov.optimism.io/t/introducing-octant/936
++ https://optimism.mirror.xyz/
+  https://vote.optimism.io/
+Gitcoin is the lowest hanging fruit
+Afolabi Aiyeloja 8:54 PM https://manual.gitcoin.co/governance-roles/steward/how-to-become-a-gitcoin-steward
+Afolabi Aiyeloja 9:07 PM https://drive.google.com/file/d/1fLesRgHGDsFi6WPLatlRcqDEf-7xlx5g/view
+
+
+◊ December end-of-year Greenpill Community Call – 11 dec 24, wed
+Matt Strachman 7:37 PM k POAP mint window is open ---- Enter the secret phrase into the POAP Home phone app > greenpill-new-year
+@Leo posting on Telegram:
+"Sorry I’m not able to join - am traveling rn and the internet is worse than expected?"
+Afolabi Aiyeloja 7:53 PM https://app.gardens.fund/gardens/42161/0x912ce59144191c1204e64559fe8253a0e49e6548/0x0f143af46eef341b3f0dbf98c3ecb47f57067fef
+Paul Glavin 7:53 PM https://calendly.com/paulglavin2
+  @donny you can book here ^
+  would love to chat!
+Lana Dingwall 7:53 PM i've gotta run - keep being awesome everyone@
+koH io 7:54 PM Bye! Matt can we add a calendly or LinkedIn to a charmverse doc for all that have listed them
++ Become a ReFi Token Launch Curator on Axis.Finance which creates a stable revenue stream and a validation mechanism for new projects in ReFi
+Anton ProductShare 8:30 PM Boys I gotta run, but dont forget The StakeShare grant program has nominated GP for a 1,1M PSS grant that is a revenue generator...consider getting onboarded into our Public Goods program:. Read more here: https://x.com/iPRODUCTSHARE/status/1865205957875155071
+Matt Strachman 8:32 PM https://x.com/gitcoin/status/1866891273044677072
+Miro link (with edit rights):
+https://miro.com/invite-link/process/?type=private_link_to_team_and_board&key=cEYwRElYaENVNEtHMTJIV2xXVkVSa0R6WXp5b3BjZmVoVVRiVmFxZHEremF3UEV4UTlCanpCZDRaYnh3RGM1dk1pdzdSTFRaNDdCRVhVRGVrZEs3ejhHQU5WTkRBVGhhM0x2aDJKUy9LamV0UHZqT2tFM3RGZ2Zpd0lmd3RNUXchZQ%3D%3D&link_id=578657199808
+
+
+◊ Dev Guild Meeting – 10 dec 24, tue
+- Add KarmaGap milestones for Hypercerts and AlloY workshops?
+  + Which grant do the workshops fall under
+Agenda
+- Trivia night planning
+- Payout reminder for community and BD - - Dev Guild survey
+- Afolabi Aiyeloja 8:17 PM Update Karma Gap by next week
+- Discuss one thing to learn in 2025
+  + Kit: get more builders into the Guild
+Carmen Victoria Turmero Nuitter 8:12 PM Hi I'm Carmen Victoria “Vicky” a passionate regenerator from Venezuela 🇻🇪 creator of Vida Verde a project where we work through education, art, promoting greener lifestyles from the actions! https://linktr.ee/vida.verde.ve
+Daniela Zschaber 8:29 PM gotta go, folks! see u all soon @danimimm
+
+
+◊ Greenpill Dev Guild Chat – 03 dec 24, tue
+Agenda
+🎉 End of Year Party
+🛠️ Allo Yeeter Workshop
+📈 2025 Grant Opportunities
+🌱 Growing on Farcaster
+Evan Hudson 8:23 PM https://allo-yeeter.vercel.app/
+Matt Strachman 8:26 PM https://app.charmverse.io/greenpill-dev-guild/workshop-video-editor-requirements-7823468519578849
+koH io 9:01 PM Evan, I'm eager to explore more ideas with IRL events
+
+
+◊ GP BD Meeting – 02 dec 24, mon  
+  Agenda for call today
+    Review grant application status
+    Set talking point for BD call with Sov
+    Discuss potential grant opportunities
+    Discuss partnership goals for 2025
+- Add ‘Watch’ status to Grants array
++ Center For Collaborative Economics (CFCE) proposal
++ Check AIA LatAm effort
+
+
+◊ X Space with Rocketman from Vrbs – 22 nov 24, fri
+https://x.com/i/spaces/1dRKZdggWVdJB/peek
+- [When talking about the grant funding] It’s curated by TCRs, invented by some dude at Consensus: Token C? Registries. 
+- [There were some tech glitches in the beginning but then things evened out. Would make a good background listen.]
+
+
+◊ KarmaGap Workshop – 20 nov 24, thu
+- 24 people attending, notable names: Evo Swift, Yessil, Djimo (Bloom Network), KazanderDad (techie, has a Charmverse-like platform), Djimo Serodio (posted  https://www.ultragreen.money/)
+- Mahesh Murthy, founder of Karma, is doing the presentation
+- This is the Dev Guild Miro board:
+  https://miro.com/app/board/uXjVLCUVYBI=/?moveToWidget=3458764607739327268&cot=14
+- If you share this link on Farcaster it renders as a frame (see greenpill-dev): 
+  https://gap.karmahq.xyz/project/greenpill-dev-guild
+  - People can fund your project right from Farcaster.
+Mahesh Murthy 5:59 PM https://docs.gap.karmahq.xyz/
+  https://github.com/show-karma/karma-gap-sdk
+
+
+◊ Dev Guild Meeting – 19 nov 24, tue
+Matt Strachman 8:11 PM Izzy links, there's now a Zora mint:
+  https://zora.co/collect/base:0x9b22eaf0f7a53de3cbdb920054ed5f2db9ec6c8a/1
+  https://x.com/jhruth/status/1857404709864088047
+  https://x.com/greenpillnet/status/1857503097158840349
+Matt Strachman 8:21 PM @Kit, Solana Multisig address is in that greenpillnet tweet above
+- KarmaGap workshop: https://lu.ma/2v4e7e0m
+Evan Hudson 8:45 PM https://github.com/Urbanika
+See https://giveth.io/project/urbanika-and-the-solarpunk-awakening?tab=updates
+https://checker.gitcoin.co/public/project/show/urbanika
+- Octant is taken over by Regen folks
+Afolabi Aiyeloja 8:46 PM https://app.charmverse.io/greenpill-dev-guild/submit-octant-community-grant-2536870933623476
+
+
+◊ Dev Guild Chat – 15 oct 24, tue
+Afolabi Aiyeloja 8:09 PM https://explorer.gitcoin.co/#/round/42161/636
+https://app.charmverse.io/greenpi
+Afolabi Aiyeloja 8:14 PM https://lu.ma/neyxpxv5
+ll-dev-guild/gg22-allo-builders-advancement-014822420619412524
+Sov or somebody uses Frame, likes it better than Rabby
+
+
+Dev Guild Chat
+Yessil “kirr0yal” Adil 6:52 PM posted his Warpcast playbook: https://sun9-32.userapi.com/impg/_v3sqnmBR1TTTR3XhIz99Kzwn5fOmxaceUdnXg/35X0PYv72pA.jpg?size=583x858&quality=96&sign=e382bef0a0d293dbe30ca259f42a849d&type=album
+Yessil “kirr0yal” Adil 7:00 PM https://warpcast.com/ecosynthesisx/0xd52c99bc
+
+
+Greenpill October Monthly Call
+Izzy: starting in January Q1
+- Esp with Regen CoordiNation
+evo swift 7:21 PM https://easyretropgf.xyz/green-sofa-easyretro-pgf-round/
+- Using KarmaGap
+evo swift 7:22 PM https://x.com/karmahq_/status/1843279340940734765
+- See https://gap.karmahq.xyz/project/greensofa/impact
+evo swift 7:35 PM https://devouch.xyz/project/giveth/2986 Pls devouch greensofa
+TYME: Teaching Young Minds Everyday
+koH io 7:37 PM I met Tymed through metagame and then met him in person this last ethdenver… awesome guy!
+Koko S 7:47 PM @kokocares on tg
+Monty Bryant 7:51 PM https://celopg.notion.site/Regen-Coordination-Hub-11a2e7251f2f8091bcc9fd0caf288e72?pvs=4
+Matt Strachman 7:57 PM POAP secret passphrase is greenpill-treats - 2 hour mint window
+
+
+GP Dev Guild Meeting
+Cauê Marcell Tomaz 8:13 PM https://builder.gitcoin.co/#/chains/42161/rounds/636
+Matt Strachman 8:13 PM https://gov.gitcoin.co/t/gg22-community-round-proposal-allo-builders-advancement-round/19401
+Matt Strachman 8:21 PM https://app.charmverse.io/greenpill-dev-guild/greenwill-5540898872039217
+Nico Gallardo 8:24 PM i wanted to invite you guys to a space im organising for octant epoch 5 participants - lmk when it's a good time to talk about it :)
+Nico Gallardo 8:27 PM docs.anyrand.com
+Afolabi Aiyeloja 8:28 PM https://why.wefa.app
+Evan Hudson 8:58 PM https://catalyst2030.net/what-are-the-17-sustainable-goals/
+
+
+WG Meeting
+- Jeff Pribich was in attendance, Hyperladger Supply Chain co-chair
+- [I arrived late, seemed to be a long discussion with a previous presentation.]
+- Alex Howard to Everyone (8 Oct 2024, 17:38) posted these for Jeff:
+  https://flur.ee/
+  https://jellyfiiish.xyz/
+Christiaan: Let’s get back to the agenda
+  - Christiaan is willing to do kind of a sprint and finish up the Ontology.
+  - The last unresolved issues. Canonizing the OWL.
+  - Willing to give it a hard push until the end of the year.
+  - Then maybe issue a version 1.
+Alex: suggests a relay, since “We’re all in different timezones”. 
+- [Goes into deep detail about certain elements of the Ontology]
+- Next week we can asynchronously review the definitions.
+- Christiaan Pauw (Nova Institute) to Everyone (8 Oct 2024, 17:54) for Jeff:
+  https://aiadocs.netlify.app/
+Kit: mentioned that I’m in touch with Monty. 
+- Aiming for a 1.0 release is news, so if it’s appropriate I’ll pass that on. 
+Christiaan closes the meeting. 
+
+
+GP BD Sync
+Cauê Marcell Tomaz 10:28 PM
+https://gap.karmahq.xyz/project/web3js/grants/0x97c8113848cbf4ca660ef330bf68c4575a30049d78a046b593ec9a7ff02a5787/milestones-and-updates
+https://gap.karmahq.xyz/project/thedevanshmehta/grants/0xe3d52b24b6f2c376d4557156a115e675c58ddc9a7a609c68da1a11efe7e1354e/milestones-and-updates
+Afolabi Aiyeloja 10:36 PM
+https://esp.ethereum.foundation/applicants/small-grants
+Cauê Marcell Tomaz 10:43 PM
+https://gap.karmahq.xyz/project/ethereum-attestation-service-eas-2/grants/0x8fe58bdd069d00b4b094e7331368342f90efa2feda3bb0f874adb4b1d9274100/milestones-and-updates
+
+Hypercert Workshop
+Holke Brammer 5:09 PM https://maearth.com/
+  And I can go a level higher whenever needed ;) (I'm a political economist by training)
+Lana Dingwall 5:18 PM oh I am sad we missed each other!
+bitbeckers (Ken) starts
+Workshop Guide: https://app.charmverse.io/greenpill-dev-guild/october-hypercerts-workshop-49761076582765296
+Matt Strachman 5:42 PM https://app.hypercerts.org/explore
+Make that heart again Ken?
+Matt Strachman 6:05 PM https://miro.com/how-to-use-miro/
+Matt Strachman 6:08 PM https://miro.com/app/board/uXjVLbgdkyE=/
+Yessil “kirr0yal” Adil 6:08 PM thx
+
+
+GreenPill Community Call Messages – 11 sep 24, wed
+
+Rohit Malekar 7:17 PM https://x.com/GreenPill_IND/status/1833890948146983264
+
+Afolabi Aiyeloja 7:26 PM https://app.charmverse.io/greenpill-network/pod-resources-9447852923349562
+
+Evo Swift, cofounder of [?] Asia, see DeSci Pod page
++ DeSci SINO at Singapore
++ Popup City by AuraSci
+
+POAP secret: took-the-pod-pill
+
+Post-meeting discussion and shills
+
+AP 8:13 PM https://docs.productshare.co
+AP 8:15 PM https://myps.link/litepaper
+https://myps.link/deck
+AP 8:24 PM herbon.productshare.co
+AP 8:35 PM https://media.graphassets.com/TZGcE17HQwyh7XOfkqsk
+
+Rodrigo NuñΞz 8:18 PM
+Hey, if anyone is going to be near Chiang Mai this October, you should apply!
+Apply here: auraverse.life
+Password: auraverse2024
+
+koH io 8:37 PM I'm going to drop a lil shill here. (super tired from giveth showcase and no sleep :D )
+Hand Protocol needs your help with boost power! We just got verified and are ready to show you what we’ve got cooking!
+Since inception, we have had the honor to officially work with @Laboso Wambogo(mentor) @Existential Zoomer & @joseacabrerav  to address their immediate needs to make the impact they set out to do.
+We’re only 1 month in and with no funding we managed to build a latrine for Laboso Caring
+Foundation  to make sure the school stays open.
+ # Hand Protocol: https://giveth.io/project/hand-protocol
+ Laboso Caring Foundation: https://giveth.io/project/scholarship-programme-for-underprivileged-children
+Lost Children of Benin City: https://giveth.io/project/documentary-about-nigerian-human-trafficking
+ Music Onboarding Machine: https://giveth.io/project/digital-street-musician-doing-free-live-concert
+
+sidick sidibe 8:42 PM https://twitter.com/i/spaces/1mnGeAPRNENGX
+
+Afolabi Aiyeloja 8:46 PM https://unlock-protocol.com/
+
+koH io 8:46 PM https://gap.karmahq.xyz/
+- [Is doing Hand Protocol, he's also on Warpcast]
+
+koH, to donate:
+https://giveth.io/es/project/huottoja-university-of-ancestral-knowledge
+Donate $5 to three projects
+Get a Giveth NFT, 100 XDAI
+
+
+GP Dev Guild Meet – 10 sep 24, tue
+
+[Didn’t take any notes, these are posts in the comments.]
+
+Afolabi Aiyeloja 8:38 PM   
+
+    https://app.charmverse.io/greenpill-dev-guild/green-goods-arbitrum-refi-grant-8954212522333262
+
+
+Hypercerts
+- Some history: https://github.com/hypercerts-org/hypercerts/discussions/1259
+
+- Hypercerts are displaying on OpenSean now:
+Cauê Marcell Tomaz 9:00 PM
+  https://opensea.io/0xAcD59e854adf632d2322404198624F757C868C97
+  My wallet
+
+Matt 9:02 PM
+  https://hub.greenpill.network/t/creating-greenpill-dao-or-regen-dao/118/6
+
++ Check out VRBS DAO (like NOUNS)
+
+Yessil “kirr0yal” Adil 9:32 PM     
+
+    https://giveth.io/project/ecosynthesisx-public-good-funding-impact-market
+
+
+Afolabi Aiyeloja 9:35 PM
+
+    https://giveth.io/qf/all
+
+
+
+GP Dev Guild Meet – 03 sep 24, tue
+
+Attending: Afo (host), Matt, Chris Georgen (Change Code), Nansel, Leo, Tarun Gupta, 3rdWorld Izzy. Later Coi, Athus Linhares, Evan Hudson, Daniel Adebimpe, Yessil Adil
+
+Agenda:
+  Intro
+  - Octant Round Acceptance
+  - GG21 Results
+  - ReFi in Arb Completion
+  Discussion
+  - Gitcoin RFP
+  - Diversifying Treasury
+  - Bringing More Builders
+
+GG21 Results
+kitblake 8:13 PM This is the result for the Climate Round: https://climatecoordination.org/datatabase/climate-round-portal/climate-round-results-gg21 (before matching)
+Nansel: take time now to check your promised milestones, do KarmaGap, etc.
+Nansel Rimsah 8:17 PM Link to Karma Gap for more clarity: https://gap.karmahq.xyz/
+
+ReFi in Arb Completion
+Afo: Green Goods, really excited about this
+Coi: It’s a like a child, giving birth.
+- Yesterday I delivered the food basket for the participants.
+- We have already 16 community tokens.
+Afo: we were talking to Silvi about [collaboration]
+Coi: I want to talk about Silvi integration
+- Another module or set of tools we are building
+- We will have raw data from GreenGoods, the observations
+- Create tool to make it easy for specialists to review the data
+- We’ll get the data from IPFS, show it in an interface, Athus can you explain?
+Athus: the user would login and start to see the images that are registered
+- The specialist can fill the input fields, they’ll be recorded as an app
+- [More details]
+Afo: are there any diagrams or documentation?
+Coi: it’s in Portuguese, we’ll have it in English soon
+Afo: that’s the integration with Silvi right there, in a nutshell
+- Please follow the GreenGoods account on Twitter
+Leo 9:08 PM Feel free to interact with this post by greenpill network regarding the dev guild :) https://twitter.com/greenpillnet/status/1831034157910421901?s=21
+
+Gitcoin RFP
+Matt 8:07 PM https://gov.gitcoin.co/t/rfp-allo-yeeter-build/19277
+Afo: [shows a Figma UI, walks thru it]
+3rdWorld Izzy: it’s good for Allo
+Afo: shows off the Loom from Owacki in the above doc [nice to see Owocki]
+Evan Hudson: we just built something like this for Arb round
+Afo: wow, what a coincidence, we need to submit it
+Evan: I can work on it this afternoon
+Coi: I’d like to participate
+Evan: lewall and George worked on it together and Julian coordinated
+- I’m not sure were the code lives
+- Do you want me to setup a synchronous call? This week?
+- It uses a factory pattern, based on volunteering events.
+- Creates a standardized contract, everyone enters their wallets, allocates
+- It’s based around NFTs to show someone is onboarded, it could be adapted
+Afo: I think they’re intending for people to build this for Allo
+Matt 9:01 PM https://discord.gg/n6ebKsX46w?ref=blog.obol.org
+- This is the Obol Discord: they’ll share a recording
+Afo: having done it as a solo staker, it’s very stressful at times [staking]
+Matt 9:37 PM We have migrated from the Network Charmverse to our own. dev guild charmverse invite - https://app.charmverse.io/invite/2bb32b
++ @abhi Check if you're in the Dev Guild Charmverse
+
+
+GP Dev Guild X Space – 30 aug 24, fri
+Title: Greenpill Dev Guild X Metagame - Learn about community building, product development, and the state of the regen space.
+Afo - Format is Past, Present, Future
+- How did MetaCartel transform into MetaGame?
+@dysbulic
+  - The liquidity from MetaPool was distributed to developers, using SourceCred.
+  - It ranked the Github activity and scored with PageRank.
+  - Kept hitting rate limits, no one is maintaining it, it fell by the wayside.
+  - Eventually migrated to Coordinate (Ape).
+- ENS provides a username and PFP, and that’s usually enough for identity. 
+  - So the profiling is falling by the wayside.
+  - Three people are getting a stipend. I’m getting around 1k a month.
+Afo - dealing with the ebb & flow
+@dysbulic - The money is a big part of the equation, even though we’re idealists
+Matt - A lot of what’s being built is cumulative
+@dysbulic - I made some pull requests into Ceramic, trying to get it to work for MetaGame
+@dysbulic - There was a separate initiative called QuestChain.
+- We’re in the process of removing the old academy and switching to QuestChain. 
+- You would start at the MetaGame academy. 
+- I’ve not been the vision behind that at all, I’ve been technical support.
+Matt - we had a couple conversations about how to manage the Guild treasury.
+- It’s the stablecoin aspect and diversifying. We have a ton of Arb. 
+- An official mandated treasury management system. We’re in beginning stages.
+- In Sept we’re launching GreenGoods. 
+- We’re going to start doing some workshops, through the GP Network.
+  - We’ll record them. [names the workshops in the poll]
+Afo - getting people to do attestations.
+@dysbulic - we said we’d get 150 people to complete a Playbook. We paid $5.
+- I’m looking at QuestChain and how they structured their contracts. 
+Afo - we need a place to collect.
+Matt - how can somebody contribute. If you’re in the MetaGame Discord. 
+- Was working on the Academy Playbook. It’s a slow start but I’m bullish on it.
+Nansel - working on community onboarding. What we’re doing on Warpcast. 
+- Happy to see where that goes.
+
+GP Dev Guild Meet – 20 aug 24, tue
+Attending: Afo (host), Yessil Adil, Matt, Marcus Dutra, Chris Georgen (Change Code), Nansel, Marcin UXA (also host), Coi, Leo joined towards the end
+Afolabi Aiyeloja
+- Green Goods in Brazil with Coi will be starting.
+- We got into the Octant Epoch 5, couple things we need to do there.
+- We appreciate [GP] support in the “Web3 Grants Ecosystem“ round: https://explorer.gitcoin.co/#/round/42161/385
+Kit
+- Shills the Anthropogenic Impact Accounting Ontology project: 
+  https://explorer.gitcoin.co/#/round/42161/388/33
+Chris
+- Shills their “Token Engineering the Superchain” project
+- [They’re in the Climate Solutions round as well]
+Cauê Marcell Tomaz  8:20 PM
+- Hey Team, how's it going? greenpillbrasil its also participating on GG21, we're running on 3 rounds this time. 
+  Climate - @climate_program
+  https://explorer.gitcoin.co/#/round/42161/388/50 
+  Regen Coord - @RegenCoordinate
+  https://explorer.gitcoin.co/#/round/42220/14/47
+  DeSci
+  https://explorer.gitcoin.co/#/round/42161/387/24
+- Talks about plans for Green Goods Rio Claro Mutiräo. Starts in 4 days.
+- Afo: there will be a call where people can see what’s going on.
+Matt 8:22 PM
+- And here's Kit's collection with the entire Climate round  https://explorer.gitcoin.co/#/collections/bafkreifh73ahzdcame5cesy5boiaqqqwj4topdr6cqvj7yvsajl2rua52u
+Matt 8:23 PM
+https://explorer.gitcoin.co/#/round/42220/14/18
+Afolabi Aiyeloja 8:28 PM
+https://explorer.gitcoin.co/#/round/42161/387/58
+Afolabi Aiyeloja 8:39 PM
+https://octantapp.notion.site/Low-Key-bLock-party-a4450017fcf8434f8523c0924c66c669
+- [Talks about the Octant collaboration]
+- There’s a dual group call on Thurs at noon CET [I’ll be on a plane]
+- [Then we discussed doing workshops where the Dev Guild would show Chapter members How-To do this or that, e.g. ENS, Charmverse, Hypercerts, etc.]
+
+
+CCN X Space – 15 aug 24, thu
+Cross pollination @GG#21 [shill it forward]
+Speakers: CCN Pranav Khanna (Host), Jon, Money (RefiDAO), Benjamin (Cofounder OpenCivics), DeSci Gitcoin (Ivo? Chinese accent, cofounder of DeSci Asia), Elephant Room Climate Community (Sarah), Coleen (Solar Foundation)
+Jon
+- We’re seeing lower amounts of donations than in previous rounds.
+- Would like to see more donations in the Decentralized Science and Art in Psychedelics round.
+Monty (@ReFiDAOist)
+- If you donate in GloDollars you’ll get airdropped REGEN tokens, the more the merrier.
+Ivo DeSci Gitcoin [missed his shill]
+Benjamin
+- Also seeing lower amounts. Scott Morris has an inspired double proposal.
+- Solar Punk / Lunar Punk, how can we categorize
+- Grace’s proposal GraceDAO, Grace Rachmany
+- Super emergent alpha: at the DWeb campout in the redwood forest, Prima Vera
+  - Bio-regional popup villages, focus on supporting local communities
+  - This will be my theme for 2025.
+Sarah Elephant Room
+- Open Civics round, bio-regions [project, missed the name]
+- It’s summer, people are off on holidays
+- Impact Grant from GG20, project could be assessed by experts
+Colleen Solar Foundation
+- Washika DAO, Helpers Social Development
+Maria DeScientist from Brazil, since GG15
+- Decentralized publication journal
+ReFi Medellín, first local node in Columbia, five local nodes now
+- Addendum
+Grace
+- RN DAO [?] Mentoring
+Chris from Change Code
+- Engineering round, Bonding curve project
+- Hypercerts and EAS, both are in the Celo Builders round
+Mars from Impact Evaluation Foundation
+- Dryvix Akasha
+- Would love to work with all of you, LetsGrowDAO
+Oxygen Chain
+- Aqua perch?
+
+Couldn't get on stage to shill but I posted a comment in the Space:
+The Anthropogenic Impact Accounting Ontology (AIAO) enables the description of human impact on any environment. Entities reporting for the Paris Climate Accord can not only use the same definitions, but also the same concepts. This is fundamental work:
+https://explorer.gitcoin.co/#/round/42161/388/33
+
+
+GP Network Community Meet – 14 aug 24, wed
+Attending: 20 people, 3rdWorld Izzy (lead, in Nigeria, but urban American accent), Afo, Matt S, Yessil, Owocki, Abraham Becker, Guild Clerics…
+- Matt 7:07 PM https://refi-dao.notion.site/Regen-Coordi-Nation-Portal-2bfc9ecc725743878491812edccf4430#c04c233c637d44fa8c5fc9aae95078e5
+  https://explorer.gitcoin.co/#/round/42220/14
+  Donation window closes August 21st 18:59 EDT
+- Yessil says Warpcast is like a combo of Instagram and Reddit.
+- Matt 7:18 PM
+  https://pods.media/greenpill
+- Matt 7:20 PM
+  https://hub.greenpill.network/t/network-onboarding-revamp/87
+  https://app.charmverse.io/greenpill-network/home-747068948032567
+- 3rdWorld Izzy 7:26 PM
+  https://hub.greenpill.network/t/discord-pod-channels/88
+Workshop
+Afolabi Aiyeloja 7:32 PM   https://miro.com/welcomeonboard/ZnhNMTY1ZjBPTDRpSDk5MUJVQVNZQktmdENyN2c4dk5zazVxNzgxdzU5Q0lBSUJiTlBhQ0luOUkxS2cweUF4MnwzNDU4NzY0NTE2MjA0MjE5MDQ1fDI=?share_link_id=137397355423
+- Coi (Caué) mentioned an ontology
+- Evan Hudson 7:45 PM
+  Here is a resource that I think would be a great partnership for GreenPil, Samantha Powers’ bioregional finance. Already working with Regen Networks and ReFi DAO  https://www.biofi.earth/
+- Afo: WEFA https://why.wefa.app
+- Evan Hudson 8:39 PM
+  @mario your idea of web3/crypto zakat is really cool and I would love to explore that with you further to find out if we can support you in that goal.
+- Amio 8:40 PM
+  I am Amio from Nigeria a community builder and Educator
+  Part of Greenpill Nigeria (especially on education and environmental front  with Bc FCET ) and  also contributing with the writers Guild in the Green pill
+- mario nurcahyanto [based in Indonesia] 8:41 PM
+  Sure hudson, currently we're on Discussion with LazizNU, one of organization that handles Zakat dristribution, they want to make it more transparent, and can track the impact of zakat distribution, and we really hope that we can deploy the pilot program with them
+- Trinity Morphy 8:44 PM
+  Link to our ReFi project DB https://carboncopy.news/projects/
+
+
+GP Dev Guild Meet – 13 aug 24, tue
+Attending: Afo (Lead), Matt S, Caué Tomaz, Nansel Rimsah (design), Yessil Adil @kirroyal, 3rdWorldIzzy (maybe from GloDollar), Chris Georgen, Alexander Mangel
+- It seems there’s an old Charmverse and a new one, this is the new one:
+  https://app.charmverse.io/invite/2bb32b
+  - [But after login it seems like I’m already in, or my data has been migrated]
++ ToDo: join https://guild.xyz/greenpill-dev-guild
+- Also https://app.charmverse.io/greenpill-dev-guild/forum
+- Miro link from branding session: https://miro.com/welcomeonboard/dFJ5QXUyWkJsT2IzRElRU2NrdTRwVnE3d0F1YTJ5NGlTV3I4NWpZUG1uU0N5OW1KbXBLaEZpcVQ2bHlvR0FXZHwzNDU4NzY0NTE2MjA0MjE5MDQ1fDI=?share_link_id=627197502316
+- Yessil: wants to run rounds for Dev Guild and Greenpill
+https://rounds.wtf/nouns/play-nouns-24
+Matt Strachman 9:05 PM Network Community call tomorrow: https://lu.ma/yh6bejwc
+- Job: they’re looking for a senior engineer, first Maintaining the Bounty Board
+
+
+GP Dev Guild branding session
+
+These are notes that Afo put on the Miro board in advance:
+
+Creating a strong brand for the Greenpill Dev Guild involves capturing the essence of your mission and values while resonating with your target audience. Here are some thoughts and suggestions for your branding:
+Core Themes
+
+    Regeneration and Sustainability: Focus on imagery and messaging that highlight ecological restoration, sustainability, and positive environmental impact.
+
+    Innovation and Technology: Emphasize your cutting-edge approach with elements that reflect blockchain technology, decentralized systems, and forward-thinking development.
+
+    Community and Collaboration: Showcase the community aspect, emphasizing collaboration, inclusivity, and shared goals.
+
+
+Branding Elements
+Logo
+
+    Design: Consider a modern, minimalist design that incorporates natural elements (like leaves or trees) with digital motifs (like blocks or networks).
+
+    Colors: Use earthy tones (greens, browns) combined with tech-oriented colors (blues, greys) to balance nature with technology.
+
+    Typography: Choose a clean, readable font that conveys professionalism and modernity.
+
+
+Tagline
+
+    Consider taglines that convey your mission succinctly, such as "Building a Sustainable Future" or "Empowering Regenerative Technology."
+
+
+Visual Style
+
+    Imagery: Use visuals that combine nature with technology, like digital forests, blockchain trees, or network ecosystems.
+
+    Graphics: Include illustrations that depict regeneration cycles, growth, and community collaboration.
+
+
+Voice and Tone
+
+    Friendly and Inclusive: Ensure your messaging is approachable and encourages community involvement.
+
+    Inspirational and Visionary: Inspire action and innovation with visionary language that communicates your long-term goals and impact.
+
+Channels and Content
+
+    Website and Social Media: Ensure consistency across all platforms with your visual identity and messaging. Highlight success stories, ongoing projects, and community contributions.
+
+    Merchandise: Consider eco-friendly merchandise like reusable products that further communicate your commitment to sustainability.
+
+Engagement
+
+    Partnerships: Highlight partnerships with organizations and initiatives that align with your mission, strengthening credibility and reach.
+
+    Community Involvement: Encourage user-generated content, feedback, and active participation in guild activities.
+
+By aligning your branding with these themes and elements, you can create a cohesive and compelling identity for the Greenpill Dev Guild that resonates with your audience and supports your mission.
+
+
+GP Dev Guild Meet – 06 aug 24, tue
+
+Attending: Afo (Lead), Matt S, Caué Tomaz, Knot Studios, Yessil @kirroyal, Athus 
+
+    Linhares, Ed Fleming, Evan Hudson, Julian Kingman, Iawal Bagatunde, Marcus Dutra, Nansel Rimsah
+
+GG21
+- GP Dev has been approved for “Thriving Arbitrum Summer” round.
+- I posted: For Climate Round applicants, Jon West of CCN wrote on Telegram:
+  “We have extended the application deadline until 8/5 23:59 UTC.”
+Grant Ships
+- Tom from Knot Studios is on the Tree Tales team, one of the Grant Ships. It’s a game dealing with deforestation.
+  - It’s a prototype. Interface between players and the impact they’re making.
+  - There’s a ‘Digital Forest’ inside the game.
+  - Athus Linhares is involved too.
+- Afo talked about Cloudlines, Caué is a (ship?) operator.
+  - Caué the token is down but we are bullish, hoping for recovery.
+ReFi In Arbitrum grants
+- Change, projects now have to be done before the end of August.
+- Evan, Julian, and Iawal are working together [on some project]
+- Evan: we talked to [Edgy] from Greenpill Nigeria, we’ll focus on tech aspects
+- Iawal (btw, is from Nigeria and the same tribe as Afo). Testing edge cases.
+- Caué: we are still looking for an engineering person, adding to our stack
+- Evan: Happy to work with Geen Goods, continue the conversation in the Tg group
+Impact Reef
+- Stepping into the Optimism ecosystem, they’ve changed the [approach]
+- We pivoted the project more towards endorsement
+Marketing on Farcaster
+- Afo maybe Matt can speak to Luciano about opening up the channel
+- Yessil: main goal is to grow the green-pill channel, get more active users.
+  - Got more followers, get more attention.
+- Yessil will talk with Lao later
+Matt: do fill in the LettuceMeet app if you wanna participate in the branding
+  https://lettucemeet.com/l/X1ppJ
+  https://lu.ma/yh6bejwc
+- We’re still looking for an Engineering Lead [not sure who ‘we’ is]
+  - Afo: to mainly help sourcing developers, somebody who has senior level
+  - Not even fully coding but has experience. Guide the tech stack going forward
+  - Anybody looking to do Regen work, it’s not necessarily paid
+
+
+GP X Space – 26 jul 24, fri
+
+Speakers
+  Afo: Favorite tooL is Allo Protocol
+  Matt UI369: Fav is GrantShips
+  Martsen: publicgoods.ai
+  Coi: BD on Dev Guild, fav is Hypercerts, GrantShips
+  Izzy: @Decentralized some role at GP network
+  bitbeckers.: works on Hypercerts, likes Octant
+  Matt S: NYC Chapter, fav is QF
+  0xWildhare: Hypercerts
+  Nansel: design in Dev Guild, fav Hypercerts
+  Boiler (Chris): sweeping floors, operations
+  Owocki is there, also Wasabi, many more, 26 in total
+
+Section 1: GrantShips – past, present, future
+- We all met at DAO House or Haus
+- DAOs are effective structural governance systems
+- Matt: mission is help DAOs win, e.g. GrantShips
+- Afo: current tooling impression
+- MattU: despite the promise it’s really technically challenging, smart contracts
+  - Like Hats Protocol, useful for lots of different projects
+  - Allo is a huge value add, GrantShips is one of the earlier examples
+  - Want to build more but not the centralized monolithic winner mentality
+  - We’re building the end user experience on top of these protocols
+- Boiler Chris: became cumbersome when the entire community is making decisions
+  - Certain individuals or groups should go ahead, GrantShips follow that idea
+  - Give somebody the empowerment to do what they’re good at, with DAO in bg
+- Afo: what were some of the biggest surprises, what can we expect in Round 2
+- MattU: we got 90,000 ARB to run the data tests, have our own grants program
+  - Suddenly we’re running a grants program instead of building an app
+  - We had to choose a domain to focus on, we settled on gaming
+  - Had to get people engaged, that was surprising
+  - Needed to find a host, to take us into a sub-community
+- Boil: we have our own space coming up
+- Afo: what are some future plans for the [missed] protocol (Stem?)
+- Boil: we needed something that would work modularly that would plug into app
+  - Originally using Joker, doesn’t allow you to get the votes into your app
+  - Then we started with GrantShips, the contracts can be used for diff things
+  - That will allow Arb token holders to hold votes when they want to
+- MattU: we won two grants and we chose GrantShips
+- Coi: thanks for onboarding our ship, really excited about the second round
+  - How can we make this matching fund
+- Boil: you guys were a really good example, custom version of an All contract
+- MattU: next round starts on Monday
+- Afo: if you have a gaming project and wann bring it onchain, reach out
+
+Section 2: bitbeckers and what’s going on with Hypercerts
+- Afo: past, present, future
+- bitbeckers: Hypercerts came out of an idea at Protocol Labs
+  - We put everything on Optimism, then worked with Gitcoin
+  - People started creating Hypercerts for Gitcoin Passport and airdrops
+  - Realized we needed evaluation
+- Afo: what are the updates you’re working on
+- bit: on protocol level not much has changed, needed to update our indexing
+  - TheGraph wouldn’t service our needs, we setup an API
+  - Using Tailwind and [something with GM], updated SDK, marketplace SDK
+  - Devs get an API, a graph, an SDK
+- Afo: what are you doing for indexing?
+- Bit: Pounder, we missed the boat, so it’s a service running an Railway
+  - Pounder looks promising, will use it down the line
+  - It’s live on testnet, heading towards the QA period, 1 or 2 weeks
+  - You can try testnet.hypercerts.org
+- Benjamin Life: asked user oriented questions about schemas and such
+- Center for Collaborative Economy @C4CollabEcon: shoutout for the EBF
+  - Environmental Benefits Framework, co-create, co-design for interoperability
+
+[There was much more but it got quite technical and I stopped taking notes.]
+
+For example:
+* https://pad.riseup.net/p/1234-tmp => deleted after 1 day of inactivity
+* https://pad.riseup.net/p/1234 => deleted after 60 days of inactivity
+* https://pad.riseup.net/p/1234-keep => deleted after 365 days of inactivity
+
+
+
