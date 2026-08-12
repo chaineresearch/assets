@@ -3,7 +3,6 @@ CR, AIA WG, Greenpill, VDAO, and other Meeting Notes
 Notes on various meetings, too long to paste in Telegram, or requiring formatting.
 
 
-
 ◊ Tokyo Fintech Webinar – 29 jul 26, wed
 Cutting through the noise in Japanese Finance & FinTech
 Japan Finsight implements the Model Context Protocol (MCP), an open standard for AI agents to call structured tools and read structured data. Once connected, your AI agent can query Japan's official corporate disclosure data (EDINET) the same way it queries any other tool.
