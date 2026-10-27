@@ -1,7 +1,7 @@
 # Meeting 27 oct 26
 
 ## Key Outcomes
-- Citizen Sentimento won the hackathon, though the announcement was initially confusing due to the Japanese pronunciation of the name. [Citation]
+- Citizen Sentiment won the hackathon, though the announcement was initially confusing due to the Japanese pronunciation of the name. [Citation]
 - The project was developed in two days using AI-assisted coding, which enabled rapid feature generation but resulted in messy, non-modular code. [Citation][Citation]
 - The mayor expressed strong interest, stating the city would use the software immediately if it were available. [Citation]
 - A PRD will be written to describe the product for potential city adoption or local implementation. [Citation][Citation]
@@ -27,5 +27,5 @@
 ## Action Items
 - kitblake: Write a PRD and send it to the mayor/city/organizers. [Citation][Citation]
 - kitblake: Create a blog post for Chaîne Research, potentially as an edited version of the existing site post. [Citation][Citation]
-- kitblake: Check the status of the IEEE hackathon. [Citation]
+- abhi: Check the status of the IEEE hackathon. [Citation]
 - kitblake: Reschedule the next meeting to a day or two after the working group meeting next week. [Citation]
