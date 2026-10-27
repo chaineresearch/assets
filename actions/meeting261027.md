@@ -14,7 +14,7 @@
 
 ## Progress & Status
 - Working group site: The site is up and running, with significant editing done by Alex in the Rise Up doc. [Citation][Citation]
-- Blog post: The blog post is published, removing a dependency for a Shane Research post about milestones. [Citation]
+- Blog post: The blog post is published, removing a dependency for a Chaîne Research post about milestones. [Citation]
 - Onboarding doc: The onboarding Peter doc is online, including abstract use cases for ontologies. [Citation]
 - IEEE hackathon: The next hackathon is believed to start around October 31st, though this is not in the calendar. [Citation]
 
@@ -26,6 +26,6 @@
 
 ## Action Items
 - kitblake: Write a PRD and send it to the mayor/city/organizers. [Citation][Citation]
-- kitblake: Create a blog post for Shane Research, potentially as an edited version of the existing site post. [Citation][Citation]
+- kitblake: Create a blog post for Chaîne Research, potentially as an edited version of the existing site post. [Citation][Citation]
 - kitblake: Check the status of the IEEE hackathon. [Citation]
 - kitblake: Reschedule the next meeting to a day or two after the working group meeting next week. [Citation]
